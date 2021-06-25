@@ -1,0 +1,422 @@
+[
+  {
+    "address": {
+      "postalCode": "0800",
+      "address": "Riverside Dr, Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 2309,
+    "phone": "0725 327431",
+    "displayName": "Westlands Luxury Apartments",
+    "geoPoint": {
+      "latitude":1.2696 ,
+      "longitude": 36.7972
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "0100",
+      "address": "Chania Avenue, Nairobi, Kenya",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 7173,
+    "phone": "+254725387300",
+    "displayName": "Tajiwi apartments",
+    "geoPoint": {
+      "latitude": 1.3107,
+      "longitude":36.8250 
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32257",
+      "address": "Church Rd, Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 5810,
+    "phone": "+254722515131",
+    "displayName": "Prime Living Luxury Apartments",
+    "geoPoint": {
+      "latitude": 1.2612,
+      "longitude": 36.7894
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32256",
+      "address": "Muthangari Dr, Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 3562,
+    "phone": "0722 391927",
+    "displayName": "Mimosa Court Apartments",
+    "geoPoint": {
+      "latitude": 1.3006,
+      "longitude":36.7984 
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": null,
+      "sundayHrs": null,
+      "saturdayHrs": null,
+      "todayHrs": null,
+      "tomorrowHrs": null
+    }
+  },
+  {
+    "address": {
+      "postalCode": "0100",
+      "address": " Stima Lane NAIROBI KE, off Lower Kabete Rd, Westlands",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 7088,
+    "phone": "",
+    "displayName": "Sherry Homes",
+    "geoPoint": {
+      "latitude": 1.2571,
+      "longitude": 36.7995
+    },
+    "operationalHours": {
+      "open24Hours": true,
+      "monToFriHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "sundayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "saturdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "todayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "tomorrowHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32210",
+      "address": "Church Rd, Nairobi",
+      "city": "Jacksonville",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 3091,
+    "phone": "0712 101222",
+    "displayName": "Cysuites Apartment Hotel",
+    "geoPoint": {
+      "latitude": 1.2617,
+      "longitude": 36.7883
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32210",
+      "address": "Chiromo Rd, Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 2007,
+    "phone": " 0703 049000",
+    "displayName": "Villa Rosa Kempinski",
+    "geoPoint": {
+      "latitude": 1.2714,
+      "longitude": 36.8089
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "23:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32205",
+      "address": " Rhapta Road",
+      "city": "Jacksonville",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 5084,
+    "phone": "020 5147500",
+    "displayName": "ibis Styles Nairobi Westlands",
+    "geoPoint": {
+      "latitude": 1.2655,
+      "longitude": 36.7988
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "24:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32258",
+      "address": "Tigoni Rd, Nairobi",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 6445,
+    "phone": "0707 110942",
+    "displayName": "Fedha Residences by Trianum",
+    "geoPoint": {
+      "latitude": 1.2899,
+      "longitude":36.7896 
+    },
+    "operationalHours": {
+      "open24Hours": null,
+      "monToFriHrs": {
+        "startHr": "06:00",
+        "endHr": "01:00",
+        "openFullDay": null
+      },
+      "sundayHrs": {
+        "startHr": "06:00",
+        "endHr": "01:00",
+        "openFullDay": null
+      },
+      "saturdayHrs": {
+        "startHr": "06:00",
+        "endHr": "01:00",
+        "openFullDay": null
+      },
+      "todayHrs": {
+        "startHr": "06:00",
+        "endHr": "01:00",
+        "openFullDay": null
+      },
+      "tomorrowHrs": {
+        "startHr": "06:00",
+        "endHr": "01:00",
+        "openFullDay": null
+      }
+    }
+  },
+  {
+    "address": {
+      "postalCode": "32244",
+      "address": "Mwanzi Road, Westlands, Next to Westgate Mall",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya"
+    },
+    "id": 1979,
+    "phone": "0780 474422",
+    "displayName": "The Landmark Suites",
+    "geoPoint": {
+      "latitude": 1.2581,
+      "longitude": 36.8043
+    },
+    "operationalHours": {
+      "open24Hours": true,
+      "monToFriHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "sundayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "saturdayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "todayHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      },
+      "tomorrowHrs": {
+        "startHr": "00:00",
+        "endHr": "24:00",
+        "openFullDay": true
+      }
+    }
+  }
+]
